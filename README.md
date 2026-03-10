@@ -30,14 +30,3 @@ Antes da entrega, renomeie o arquivo do notebook para: `SeuNomeCompleto_rmXXXXX_
 **[Inserir aqui o link do vídeo no YouTube (não listado), com até 5 minutos, demonstrando o funcionamento do entregável.]**
 
 ## Estrutura do repositório
-
-```
-├── README.md
-├── requirements.txt
-├── data/
-│   └── crop_yield.csv
-└── notebooks/
-    └── pbl_fase4.ipynb   → renomear para NomeCompleto_rmXXXXX_pbl_fase4.ipynb
-```
-
-Mantenha o repositório **público** para acesso da equipe FIAP. Não realize commits após a data da entrega.
